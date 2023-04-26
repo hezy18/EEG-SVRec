@@ -1,4 +1,4 @@
-# EEG-SVRec
+# EEG-SVRec（EEG data size ≈ 60G）
 An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation
 
 ## Data Organization
