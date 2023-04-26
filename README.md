@@ -46,4 +46,4 @@ The codes of video and EEG features extraction
 
 ## Instruction
 
-Path = "instruction.md"
+Path = "./instruction.md"
