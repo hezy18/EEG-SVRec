@@ -6,9 +6,6 @@ For each video, you will be asked to rate it based on six different dimensions: 
 
 
 
-<img src="/Users/zsr/Library/Application Support/typora-user-images/image-20230426131141755.png" alt="image-20230426131141755" style="zoom:67%;" />
-
-
 
 ### Valence:
 
