@@ -20,13 +20,40 @@ For each interaction(uid,iid), fields:
 *  "session_mode": personalized / randomized / non-personalized / mixed
 *  "preference": if session_mode = mixed, recommendation / random
 
+
 ### EEG data
 
 The data is preprocessed and in the form of .cnt
 
+The method of data algnment of .cnt is at "./code/EEG_feature/part1_preprocess_for_resource.py"
+
 The EEG data can be accessed at {link}
 
+**Noticing that the complete EEG data is about 35G(compressed) and we deployed the dataset on our lab platform. Because of the double-blind review, we hide the link.** 
+
+
 ### Partcipant
+
+The basic information of the participants
+
+Path = "./data/participant.csv"
+
+Fields: iid, age, gender, usage (Years of the use of short video)
+
+
+### Video features
+
+The features of the videos
+
+Path = "./data/video_features/video_features.csv", "./data/video_features/video_ComParE-example.csv"
+
+The full file of video_ComParE is at {link}
+
+**Noticing that the full file of video_ComParE.csv is about 170M. We will public it after double-blind review.** 
+
+
+### Partcipant
+
 The basic information of the participants
 
 Path = "./data/participant.csv"
@@ -34,6 +61,7 @@ Path = "./data/participant.csv"
 Fields: iid, age, gender, usage (Years of the use of short video)
 
 ### Video features
+
 The features of the videos
 
 Path = "./data/video_features/video_features.csv", "./data/video_features/video_ComParE-example.csv"
