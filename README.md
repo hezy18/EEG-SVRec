@@ -52,22 +52,6 @@ The full file of video_ComParE is at {link}
 **Noticing that the full file of video_ComParE.csv is about 170M. We will public it after double-blind review.** 
 
 
-### Partcipant
-
-The basic information of the participants
-
-Path = "./data/participant.csv"
-
-Fields: iid, age, gender, usage (Years of the use of short video)
-
-### Video features
-
-The features of the videos
-
-Path = "./data/video_features/video_features.csv", "./data/video_features/video_ComParE-example.csv"
-
-The full file of video_ComParE is at {link}
-
 ## Code
 
 The codes of video and EEG features extraction
