@@ -40,8 +40,8 @@ Path = "./data/video_features/video_features.csv", "./data/video_features/video_
 
 The full file of video_ComParE is at {link}
 
-## Codes
+## Code
 
-The code of video and EEG features extraction
+The codes of video and EEG features extraction
 
 ## Instructions
