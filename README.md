@@ -21,7 +21,7 @@ For each interaction(uid,iid), fields:
 *  "preference": if session_mode = mixed, recommendation / random
 
 
-### EEG data
+### EEG data (62G)
 
 The data is preprocessed and in the form of .cnt
 
