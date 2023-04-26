@@ -38,7 +38,7 @@ The basic information of the participants
 
 Path = "./data/participant.csv"
 
-Fields: iid, age, gender, usage (Years of the use of short video)
+Fields: iid, age, gender, usage (using year of short video app we employed , 1: never, 2:under 6 months, 3: 6-12 months, 4: 1-2 years, 5: over 2 years)
 
 
 ### Video features
