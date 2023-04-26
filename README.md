@@ -44,4 +44,6 @@ The full file of video_ComParE is at {link}
 
 The codes of video and EEG features extraction
 
-## Instructions
+## Instruction
+
+Path = "instruction.md"
