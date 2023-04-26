@@ -1,6 +1,6 @@
 * The EEG data can be accessed at {link}
 
-**Noticing that the complete EEG data is about 35G(compressed) and we deployed the dataset on our lab platform. Because of the double-blind review, we hide the link.** 
+**Noticing that the complete EEG data is about 62G (35G after compression) and we deployed the dataset on our lab platform. Because of the double-blind review, we hide the link.** 
 
 * Files of EEG data (previewed)
 
