@@ -17,8 +17,6 @@ import config
 exp_list = config.exp_list
 threshold = config.threshold
 
-# os.environ["IMAGEIO_FFMPEG_EXE"] = "/Users/hezhiyu/opt/anaconda3/envs/video/lib/python3.8/site-packages/ffmpeg/"
-
 def get_done_id_list():
     id_list=[]
     filenames = os.listdir('audio')
