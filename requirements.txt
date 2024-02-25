@@ -1,0 +1,4 @@
+torch==1.1.0
+jupyter==1.0.0
+tqdm==4.51.0
+pandas==0.24.2
