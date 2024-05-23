@@ -86,6 +86,6 @@ If you use our dataset, code or find MicroLens useful in your work, please cite 
 
 > :warning: **Caution**: It's prohibited to privately modify the dataset and then offer secondary downloads. If you've made alterations to the dataset in your work, you are encouraged to open-source the data processing code, so others can benefit from your methods. Or notify us of your new dataset so we can put it on this Github with your paper.
 
-If you have any questions, please contact us.
+If you have any question, please contact us.
 
 
