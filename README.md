@@ -1,9 +1,17 @@
-# EEG-SVRec（EEG data size ≈ 62G）
+# [MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale](https://arxiv.org/pdf/2404.01008)
 An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation
 
-## Data Organization
+<a href="https://arxiv.org/pdf/2404.01008" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2309.06789-FAA41F.svg?style=flat" /></a>
 
-### Behavior and MAES
+The paper has been accepted by SIGIR 2024.
+
+Quick Links: [🗃️Dataset](#Dataset) |
+[🛠️Code](#Code) |
+[📭Citation](#Citation) |
+
+# Dataset
+
+## Behavior and MAES
 
 The data is organized in the form of the JSON object.
 
@@ -23,18 +31,18 @@ For each interaction(user_id,item_id), fields:
 *  "preference": if session_mode = mixed, recommendation / random
 
 
-### EEG data (62G)
+## EEG data
 
 The data is preprocessed and in the form of .cnt
 
 The method of data alignment of .cnt is at "./code/EEG_feature/part1_preprocess_for_resource.py"
 
-The EEG data can be accessed at {link}
+The EEG data can be accessed at . If
 
-**Noticing that the complete EEG data is about 62G and we deployed the dataset on our lab platform. Because of the double-blind review, we hide the link.** 
+**Noticing that the complete EEG data is about 62G and we deployed the dataset on our lab platform.** 
 
 
-### Partcipants
+## Partcipants
 
 The basic information of the participants
 
@@ -43,7 +51,7 @@ Path = "./data/participant.csv"
 Fields: iid, age, gender, usage (using year of short video app he/she employed, 1: never, 2: under 6 months, 3: 6-12 months, 4: 1-2 years, 5: over 2 years)
 
 
-### Video features
+## Video features
 
 The features of the videos
 
@@ -54,10 +62,30 @@ The full file of video_ComParE is at {link}
 **Noticing that the full file of video_ComParE.csv is about 170M. We will publicize it after the double-blind review.** 
 
 
-## Code
-
-The codes of video and EEG feature extraction
-
 ## Instruction
 
 Path = "./instruction.md"
+
+
+# Code
+
+The codes of video and EEG feature extraction
+
+
+# Citation
+If you use our dataset, code or find MicroLens useful in your work, please cite our paper as:
+
+```bib
+@article{zhang2024eeg,
+  title={EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation},
+  author={Zhang, Shaorun and He, Zhiyu and Ye, Ziyi and Sun, Peijie and Ai, Qingyao and Zhang, Min and Liu, Yiqun},
+  journal={arXiv preprint arXiv:2404.01008},
+  year={2024}
+}
+```
+
+> :warning: **Caution**: It's prohibited to privately modify the dataset and then offer secondary downloads. If you've made alterations to the dataset in your work, you are encouraged to open-source the data processing code, so others can benefit from your methods. Or notify us of your new dataset so we can put it on this Github with your paper.
+
+If you have any questions, please contact us.
+
+
