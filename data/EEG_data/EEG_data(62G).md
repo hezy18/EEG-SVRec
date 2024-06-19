@@ -1,4 +1,4 @@
-* The EEG data can be accessed at {link}
+* The EEG data can be accessed at {[link](https://cloud.tsinghua.edu.cn/d/84caed5b9fac4816a1ba/)}
 
 **Noticing that the complete EEG data is about 62G (35G after compression) and we deployed the dataset on our lab platform. Because of the double-blind review, we hide the link.** 
 
