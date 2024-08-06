@@ -37,9 +37,15 @@ The data is preprocessed and in the form of .cnt
 
 The method of data alignment of .cnt is at "./code/EEG_feature/part1_preprocess_for_resource.py"
 
-The EEG data can be accessed at . If
+The EEG data can be accessed at [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/84caed5b9fac4816a1ba/)
 
-**Noticing that the complete EEG data is about 62G and we deployed the dataset on our lab platform.** 
+**Noticing:**
+
+1. The complete EEG cleaned data is about 62G (35G after compression) 
+
+2. We also provide the DE feature of EEG per second.
+
+3. The preprocessed data, which is used to run the baseline (it is normalized and calculated as the average of seconds), is provided at '/data/EEG_data/EEG_DE_avg'.
 
 
 ## Partcipants
@@ -57,9 +63,7 @@ The features of the videos
 
 Path = "./data/video_features/video_features.csv", "./data/video_features/video_ComParE-example.csv"
 
-The full file of video_ComParE is at {link}
-
-**Noticing that the full file of video_ComParE.csv is about 170M. We will publicize it after the double-blind review.** 
+The full file of video_ComParE is at [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/84caed5b9fac4816a1ba/)
 
 
 ## Instruction
