@@ -1,7 +1,7 @@
-# [EEGSVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation]
+# EEGSVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation
 
 
-<a href="https://arxiv.org/pdf/2404.01008" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2309.06789-FAA41F.svg?style=flat" /></a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657890" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2309.06789-FAA41F.svg?style=flat" /></a>
 
 The paper has been accepted by SIGIR 2024.
 
