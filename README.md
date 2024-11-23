@@ -1,5 +1,5 @@
-# [MicroLens: A Content-Driven Micro-Video Recommendation Dataset at Scale](https://arxiv.org/pdf/2404.01008)
-An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation
+# [EEGSVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation]
+
 
 <a href="https://arxiv.org/pdf/2404.01008" alt="paper"><img src="https://img.shields.io/badge/ArXiv-2309.06789-FAA41F.svg?style=flat" /></a>
 
