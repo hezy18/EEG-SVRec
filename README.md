@@ -13,7 +13,7 @@ Quick Links: [🗃️Dataset](#Dataset) |
 
 User ID: 30 users. min=(0)1, max=30
 
-Item ID: 2684 items. min=0, max=2803
+Item ID: 2684 items. min=0, max=2683
 
 Number of Interactions: 3657
 
