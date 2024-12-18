@@ -9,6 +9,17 @@ Quick Links: [🗃️Dataset](#Dataset) |
 
 # Dataset
 
+## Statistics
+
+User ID: 30 users. min=(0)1, max=30
+
+Item ID: 2684 items. min=0, max=2803
+
+Number of Interactions: 3657
+
+**<span style="color:red; font-weight:bold;">NEWS</span>**: We have updated EEG's DE features as of 2024.12.18! In this version, the "key" has been changed from "the interaction idx" to "item_id."
+
+
 ## Behavior and MAES
 
 The data is organized in the form of the JSON object.
