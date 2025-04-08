@@ -86,7 +86,7 @@ The codes of video and EEG feature extraction
 
 
 # Citation
-If you use our dataset, code or find MicroLens useful in your work, please cite our paper as:
+If you use our dataset, code or find EEG-SVRec useful in your work, please cite our paper as:
 
 ```bib
 @article{zhang2024eeg,
