@@ -46,7 +46,8 @@ The data is preprocessed and in the form of .cnt
 
 The method of data alignment of .cnt is at "./code/EEG_feature/part1_preprocess_for_resource.py"
 
-The EEG data can be accessed at [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/84caed5b9fac4816a1ba/)
+The EEG data can be accessed at [Huggingface](https://huggingface.co/datasets/hezy18/EEG-SVRec/)
+
 
 **Noticing:**
 
@@ -71,8 +72,6 @@ Fields: iid, age, gender, usage (using year of short video app he/she employed, 
 The features of the videos
 
 Path = "./data/video_features/video_features.csv", "./data/video_features/video_ComParE-example.csv"
-
-The full file of video_ComParE is at [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/84caed5b9fac4816a1ba/)
 
 
 ## Instruction
